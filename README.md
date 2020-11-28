@@ -1,24 +1,4 @@
 # tictactoe
 
-## Project setup
-```
-npm install
-```
+.Juego de Tic Tac Toe utilizando el framework Vuejs. Se hizo el Deployment en Heroku.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
